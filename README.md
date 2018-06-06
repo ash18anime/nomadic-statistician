@@ -1,0 +1,2 @@
+# nomadic-statistician
+pure awesomeness!
